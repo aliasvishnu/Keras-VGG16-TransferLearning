@@ -8,3 +8,4 @@ The aim of this project is to understand ConvNets, use transfer learning to solv
 * Caltech256 - Dark knowledge.ipynb - Shows how the temperature parameter can help uncover the knowledge in a network and use it to transfer knowledge.
 
 [1] http://www.vision.caltech.edu/Image_Datasets/Caltech256/
+[2] http://www.bmva.org/bmvc/2013/Papers/paper0014/abstract0014.pdf
