@@ -6,3 +6,5 @@ The aim of this project is to understand ConvNets, use transfer learning to solv
 * VGG Transfer Learning.ipynb - Shows how to create the transfer learning model, build the dataset from Caltech 256 images and train the model.
 * Urban Tribes.ipynb - Same thing as above, but applied on Urban Tribes dataset.
 * Caltech256 - Dark knowledge.ipynb - Shows how the temperature parameter can help uncover the knowledge in a network and use it to transfer knowledge.
+
+[1] http://www.vision.caltech.edu/Image_Datasets/Caltech256/
